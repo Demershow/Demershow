@@ -8,7 +8,7 @@
 
 <details>
   <summary>Show GitHub Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mhcrocky&theme=github" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=demershow&theme=github" />
 </details>
 
 ## CONTACTS
