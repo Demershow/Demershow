@@ -24,7 +24,7 @@
 
 [Gmail]: mailto:mhcrocky@gmail.com
 [Skype]: https://join.skype.com/invite/
-[Discord]: https://doscord.com/mhcrocky#3773
+[Discord]: https://doscord.com/dmr<3soph#9772
 
 <!--
 **Demershow/Demershow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
