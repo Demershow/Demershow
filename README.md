@@ -3,7 +3,7 @@
 
 ### My Github activity
 
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=demershow&count_private=true)
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=demershow&count_private=false)
 [![Status](https://github-readme-streak-stats.herokuapp.com/?user=demershow&theme=chartreuse-dark)](https://github.com/jdkeds)
 
 <details>
