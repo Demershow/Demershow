@@ -10,10 +10,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=demershow&theme=github" />
 </details>
 
-## CONTACTS
-[<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/twitter-131994968072185767.png" />][Gmail]
-[<img align="left" alt="Discord" width="40px" src="https://icons-for-free.com/iconfiles/png/512/discord-1329858313674015658.png" />][Discord]
-[<img align="left" alt="Facebook" width="40px" src="https://icons-for-free.com/iconfiles/png/512/skype+social+icon-1320194697507520114.png" />][Skype]
 
 
 
