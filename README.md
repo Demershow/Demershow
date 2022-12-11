@@ -9,6 +9,7 @@
 <div align="left">
 
 <a href="https://github.com/demershow?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanGualberto&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demershow&theme=dark&layout=compact" />
 </a>
 </div>
