@@ -7,11 +7,9 @@
 
 
 <div align="center">
-
-<a href="https://github.com/demershow?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demershow&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demershow&theme=dark&layout=compact" />
-</a>
+  <a href="https://github.com/RyanGualberto">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demershow&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demershow&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Onde me achar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
