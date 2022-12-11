@@ -6,10 +6,10 @@
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="25" height="25" /> demersontorres520@gmail.com
 
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/demershow?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanGualberto&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demershow&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demershow&theme=dark&layout=compact" />
 </a>
 </div>
