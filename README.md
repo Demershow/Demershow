@@ -1,8 +1,8 @@
 # Olá! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
  
 - <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Ledger" width="25" height="25" /> Atualmente estudando Node
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Pretendo me tornar desenvolvedor Fullstack com NodeJS, ReactJS etc. 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Faço curso Técnico em TI na <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Pretendo me tornar desenvolvedor Fullstack com NodeJS, ReactJS e React Native
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Faço curso Técnico em ADS na <a href="http://eteab.com.br/cms/">ETEC Adolpho Berezin</a>.
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="25" height="25" /> demersontorres520@gmail.com
 
 
