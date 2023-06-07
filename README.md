@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Demershow">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=demershow&show_icons=truetheme=transparent&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demershow&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=demershow&show_icons=truetheme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demershow&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## Onde me achar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
