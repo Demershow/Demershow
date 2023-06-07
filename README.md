@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demershow&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Onde me achar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
+## Onde me encontrar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="30" height="30" />
 
 <div>
 <a href="https://www.linkedin.com/in/demerson-guilherme-190774218/">
