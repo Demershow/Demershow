@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Demershow">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=demerson-dmr-clear&show_icons=true&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=demershow&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demershow&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
